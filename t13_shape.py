@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Thy H. Nguyen     TODO: Change this to your names
-# Username: nguyent2             TODO: Change this to your usernames
+# Author: Thy H. Nguyen     
+# Username: nguyent2           
 #
 # Assignment: T13: Intro to Classes
 #
